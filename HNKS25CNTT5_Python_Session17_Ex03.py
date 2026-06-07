@@ -62,7 +62,7 @@ def add_patient(patient_list):
     ]
 
     patient_list.append(new_patient)
-    print("\nTiếp nhận bệnh nhân thành công!")
+    print("Tiếp nhận bệnh nhân thành công!")
 
 def update_diagnosis(patient_list):
     print("----- CẬP NHẬT CHẨN ĐOÁN BỆNH -----")
